@@ -1,7 +1,10 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/Quicksalepro/quicksalepro/blob/main/LICENSE)
 [![Build](https://github.com/Quicksalepro/quicksalepro/actions/workflows/build.yml/badge.svg)](https://github.com/Quicksalepro/quicksalepro/actions/workflows/build.yml)
+![GitHub Stars](https://img.shields.io/github/stars/Quicksalepro/quicksalepro?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/Quicksalepro/quicksalepro?style=social)
+![Issues](https://img.shields.io/github/issues/Quicksalepro/quicksalepro)
 
 # QuickSalePro.ai
-
 QuickSalePro.ai is an **AI-powered advertising platform**.  
 It helps businesses and entrepreneurs generate **high-converting ad creatives** (text + images) and launch campaigns across **Facebook, Instagram, TikTok, and Google Ads**.
 
