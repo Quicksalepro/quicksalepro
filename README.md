@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="docs/banner.png" alt="QuickSalePro Banner" width="800"/>
-</p>
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/Quicksalepro/quicksalepro/blob/main/LICENSE)
 [![Build](https://github.com/Quicksalepro/quicksalepro/actions/workflows/build.yml/badge.svg)](https://github.com/Quicksalepro/quicksalepro/actions/workflows/build.yml)
 ![GitHub Stars](https://img.shields.io/github/stars/Quicksalepro/quicksalepro?style=social)
